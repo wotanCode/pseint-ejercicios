@@ -16,4 +16,4 @@ Se pide que su algoritmo en Pseint reciba el sueldo bruto, muestre el sueldo fin
 Desarrolle un algoritmo que reciba dos números, si la suma de los números es mayor a 100, mostrar la suma, si es menor, mostrar como resultado la multiplicación.
 
 ## Ejercicio N°4
-Desarrolle un algoritmo en Pseint que solicite 10 números al usuario y entregue como resultado el promedio, utilizando un ciclo para
+Desarrolle un algoritmo en Pseint que solicite 10 números al usuario y entregue como resultado el promedio, utilizando un ciclo <b>para</b>
