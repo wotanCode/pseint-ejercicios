@@ -1,0 +1,3 @@
+# pseint-ejercicios
+
+Ejercicios varios!
