@@ -5,8 +5,6 @@ Algoritmo BattleShipPseint
 	Dimension MComputador[10,10]
 	definir aux1, aux2,vidaJ, vidaPc, balas Como Entero
 	
-	//Se inicializan las balas
-	balas = 10
 	//vidas
 	vidaPc=3
 	VidaJ=3
@@ -22,9 +20,9 @@ Algoritmo BattleShipPseint
 	//Indica la posicion inicial de las naves
 	Escribir "Tienes 3 naves, indica sus posiciones"
 	para i=1 hasta 3
-		Escribir sin saltar "Escribe la posicion Y de la nave la nave ", i," del 1 al 10"
+		Escribir sin saltar "Escribe la posicion Y de la nave ", i," del 1 al 10"
 		leer aux1
-		Escribir sin saltar "Escribe la posicion X de la nave la nave ", i," del 1 al 10"
+		Escribir sin saltar "Escribe la posicion X de la nave ", i," del 1 al 10"
 		leer aux2
 		Mjugador[aux1,aux2] = 1
 	FinPara
