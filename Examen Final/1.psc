@@ -3,8 +3,6 @@ Algoritmo tresNumeros
 	dimension vector[03]
 	definir alto,bajo como entero
 	
-	contador = 0
-
 	para i = 1 Hasta 3
 		
 		Escribir "Ingresa el numerro ", i
